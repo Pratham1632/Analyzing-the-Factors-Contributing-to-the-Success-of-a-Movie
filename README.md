@@ -1,15 +1,15 @@
 
-# 📊 Analyzing the Factors Contributing to the Success of a Movie
+#  Analyzing the Factors Contributing to the Success of a Movie
 
-## 🎬 Project Overview
+##  Project Overview
 
 This project analyzes various factors that contribute to a movie's success. The analysis is done through a Jupyter Notebook exploring key data-driven insights.
 
-## 📂 File Description
+##  File Description
 
 - **Analyzing the Factors Contributing to the Success of a Movie.ipynb**: The main notebook containing the data analysis and visualizations.
 
-## 🚀 How to Run the Project
+##  How to Run the Project
 
 1. **Clone the Repository**:
    ```bash
@@ -32,7 +32,7 @@ This project analyzes various factors that contribute to a movie's success. The 
 4. **Run the Notebook**:  
    Execute the cells in sequence to perform the analysis.
 
-## 🛠 Dependencies
+##  Dependencies
 
 Make sure the following libraries are installed (add this to your `requirements.txt` if needed):
 
